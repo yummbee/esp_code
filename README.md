@@ -3,3 +3,7 @@ This repo is intended to be used as a reference for esp32 code done in C (curren
 The project was built using the PlatformIO extension on VSCode and ESP-IDF. 
 
 If you wish to add code please do not dump all code into the main.c, create a C file under the respective sub folder.
+
+
+## Potentially useful repos
+Generating a lookup table to correct ADC non-linearity issue: [esp32-adc-calibrate](https://github.com/e-tinkers/esp32-adc-calibrate/)
