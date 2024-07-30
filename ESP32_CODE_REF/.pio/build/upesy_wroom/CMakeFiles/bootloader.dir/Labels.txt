@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/CMakeFiles/bootloader
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/CMakeFiles/bootloader.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/CMakeFiles/bootloader-complete.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/jordan/Documents/GitHub/esp_code/ESP32_CODE_REF/.pio/build/upesy_wroom/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
